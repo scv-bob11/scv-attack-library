@@ -63,4 +63,4 @@
 |904   |Incorrect calculation of value                         |잘못된 asset value 계산                                                              |682       |      |                |
 |905   |Governance design flaw                                 |거버넌스 설계 결함                                                                      |          |      |                |
 |906   |Frontend vulnerability                                 |프론트 취약점                                                                         |          |      |                |
-|907   |Logic bug                                              |위 분류에 포함 되지 않으면서 취약점으로 작용할 수 있는는 것들                                                  |          |      |                |
+|907   |Logic bug                                              |위 분류에 포함 되지 않으면서 취약점으로 작용할 수 있는 것들                                                  |          |      |                |
